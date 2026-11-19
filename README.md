@@ -1,12 +1,13 @@
+[README.md](https://github.com/user-attachments/files/35112448/README.md)
 # Barbearia Balotelli Cortes | Minisite
 
 Página estática em HTML e CSS, sem build.
 
 - Instagram: https://www.instagram.com/balotelli_cortes/
 
-## Antes de publicar
+## WhatsApp
 
-Troque `https://wa.me/55NUMERO-DO-WHATSAPP` em `index.html` pelo link real do WhatsApp (formato `https://wa.me/55DDDNUMERO`, só números). O link aparece 2 vezes.
+Os botões abrem `https://wa.me/558197026654` com mensagem pronta. Para trocar o número, altere o link em `index.html` (aparece 2 vezes).
 
 ## Estrutura
 
